@@ -89,6 +89,11 @@
               <item name="pythonWorkSpace" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonWorkSpace" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pythonWorkSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonWorkSpace" type="462c0819:PsiDirectoryNode" />
+              <item name="2018-12-5" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -334,6 +339,9 @@
       <workItem from="1543542231164" duration="10812000" />
       <workItem from="1543647355012" duration="1815000" />
       <workItem from="1543890619459" duration="1209000" />
+      <workItem from="1543996843838" duration="1342000" />
+      <workItem from="1544004466732" duration="599000" />
+      <workItem from="1544059778655" duration="1198000" />
     </task>
     <task id="LOCAL-00001" summary="删除了HelloWorld 开始学习python">
       <created>1543564189666</created>
@@ -377,17 +385,32 @@
       <option name="project" value="LOCAL" />
       <updated>1543647384812</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="增加了学习的函数">
+      <created>1543996920177</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1543996920177</updated>
+    </task>
+    <task id="LOCAL-00008" summary="更新GITHUB">
+      <created>1543997071608</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1543997071608</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14546000" />
+    <option name="totallyTimeSpent" value="17685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49665925" visible="true" weight="0.18496802" />
-      <window_info id="Structure" order="1" sideWeight="0.5033408" side_tool="true" visible="true" weight="0.18496802" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4933185" visible="true" weight="0.1913646" />
+      <window_info id="Structure" order="1" sideWeight="0.5066815" side_tool="true" visible="true" weight="0.1913646" />
       <window_info id="Favorites" order="2" sideWeight="0.5005562" side_tool="true" weight="0.3128998" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -459,7 +482,8 @@
     <MESSAGE value="练习 python循环（for in）" />
     <MESSAGE value="部分字段名更改 增加了内置的函数转换练习" />
     <MESSAGE value="增加了学习的函数" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加了学习的函数" />
+    <MESSAGE value="更新GITHUB" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新GITHUB" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
