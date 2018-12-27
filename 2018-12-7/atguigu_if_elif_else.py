@@ -45,4 +45,4 @@ elif personGrade >= 60:
 else:
     print("give nothing")
 
-#(4) 男大当婚女大当嫁 女方家长要嫁女儿 提出了一些条件
+# (4) 男大当婚女大当嫁 女方家长要嫁女儿 提出了一些条件
