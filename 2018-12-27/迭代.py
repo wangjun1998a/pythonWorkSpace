@@ -6,9 +6,6 @@ def findMinAndMax(L):
         min = L[0]
         max = L[0]
     for x in L:
-        if min == 0 and max == 0:
-            min = x
-            max = x
         if x > max:
             max = x
         if x < min:

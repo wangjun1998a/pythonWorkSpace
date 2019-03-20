@@ -34,15 +34,24 @@
 
 # (3)键盘输入小明的期末成绩
 # 需求直接写在代码里 太多了懒得敲 看不懂是人才
-personGrade = int(input("input this student grades : "))
-
-if personGrade == 100:
-    print("give a car ")
-elif personGrade >= 80:
-    print("give a IPhone")
-elif personGrade >= 60:
-    print("give a book ")
-else:
-    print("give nothing")
+# personGrade = int(input("input this student grades : "))
+#
+# if personGrade == 100:
+#     print("give a car ")
+# elif personGrade >= 80:
+#     print("give a IPhone")
+# elif personGrade >= 60:
+#     print("give a book ")
+# else:
+#     print("give nothing")
 
 # (4) 男大当婚女大当嫁 女方家长要嫁女儿 提出了一些条件
+height = float(input("Input human height : "))
+money = float(input("Input human money : "))
+sex = float(input("Input human sex : "))
+if height  > 180 and money > 1000 and sex > 500 :
+    print("must merry he")
+elif height > 180 or money > 1000 or sex > 500:
+    print("just merry it ")
+else:
+    print("won't merry he!")
