@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fb766238-a520-4e72-a1af-a545b85703d1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2018-12-27/迭代.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018-12-27/迭代.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2018-12-7/atguigu_if_elif_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018-12-7/atguigu_if_elif_else.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,11 +30,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2019-3-20/练习，唐僧大战白骨精.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
+            <state relative-caret-position="1008">
+              <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2019-4-4/EMS练习.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019-4-4/测试list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -83,6 +99,9 @@
         <option value="$PROJECT_DIR$/2019-1-25/while语句.py" />
         <option value="$PROJECT_DIR$/2019-3-19/循环嵌套.py" />
         <option value="$PROJECT_DIR$/2019-3-20/练习，唐僧大战白骨精.py" />
+        <option value="$PROJECT_DIR$/2019-4-4/测试.py" />
+        <option value="$PROJECT_DIR$/2019-4-4/测试list.py" />
+        <option value="$PROJECT_DIR$/2019-4-4/EMS练习.py" />
       </list>
     </option>
   </component>
@@ -112,17 +131,7 @@
             <path>
               <item name="pythonWorkSpace" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonWorkSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-1-25" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonWorkSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonWorkSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-3-19" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonWorkSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonWorkSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-3-20" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-4-4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -131,6 +140,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/HelloWorld.py" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -151,8 +161,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.练习，唐僧大战白骨精">
-    <configuration name="内置函数转换练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.EMS练习">
+    <configuration name="测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonWorkSpace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,7 +175,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018-11-30/内置函数转换练习.py" />
+      <option name="SCRIPT_NAME" value="D:\Program Files\pythonWorkSpace\2019-4-4\测试list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="练习，唐僧大战白骨精" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="EMS练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonWorkSpace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,7 +197,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-3-20/练习，唐僧大战白骨精.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-4-4/EMS练习.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,28 +220,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="递归函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonWorkSpace" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018-12-26/递归函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -501,6 +489,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="练习，唐僧大战白骨精" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonWorkSpace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-3-20/练习，唐僧大战白骨精.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="递归函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonWorkSpace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018-12-26/递归函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="pythonWorkSpace" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -545,6 +577,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="测试list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonWorkSpace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-4-4/测试list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="while语句" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonWorkSpace" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -569,7 +623,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.练习，唐僧大战白骨精" />
+        <item itemvalue="Python.EMS练习" />
+        <item itemvalue="Python.测试list" />
+        <item itemvalue="Python.测试" />
         <item itemvalue="Python.while语句" />
         <item itemvalue="Python.atguigu_if_elif_else" />
       </list>
@@ -623,7 +679,23 @@
       <workItem from="1552875916260" duration="2363000" />
       <workItem from="1552887009914" duration="5379000" />
       <workItem from="1552961506629" duration="15684000" />
-      <workItem from="1553046600394" duration="6812000" />
+      <workItem from="1553046600394" duration="7838000" />
+      <workItem from="1553068428851" duration="15000" />
+      <workItem from="1553068498792" duration="4193000" />
+      <workItem from="1553131691497" duration="1215000" />
+      <workItem from="1553146587060" duration="8509000" />
+      <workItem from="1553222691736" duration="3408000" />
+      <workItem from="1553743850513" duration="16627000" />
+      <workItem from="1553822588639" duration="10027000" />
+      <workItem from="1554082062042" duration="38000" />
+      <workItem from="1554082163942" duration="12864000" />
+      <workItem from="1554168883404" duration="14744000" />
+      <workItem from="1554209729858" duration="1550000" />
+      <workItem from="1554253974191" duration="9342000" />
+      <workItem from="1554276663857" duration="4206000" />
+      <workItem from="1554340712601" duration="17361000" />
+      <workItem from="1554687103450" duration="78000" />
+      <workItem from="1554687216428" duration="1318000" />
     </task>
     <task id="LOCAL-00001" summary="删除了HelloWorld 开始学习python">
       <created>1543564189666</created>
@@ -695,17 +767,24 @@
       <option name="project" value="LOCAL" />
       <updated>1545909325858</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="更新GITHUB">
+      <created>1553066704638</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1553066704638</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188949000" />
+    <option name="totallyTimeSpent" value="295470000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48942173" side_tool="true" visible="true" weight="0.1641791" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48942173" side_tool="true" visible="true" weight="0.3004269" />
       <window_info id="Structure" order="1" sideWeight="0.5105783" side_tool="true" weight="0.25700936" />
       <window_info id="Favorites" order="2" sideWeight="0.5005562" side_tool="true" weight="0.31191587" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -716,18 +795,18 @@
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" side_tool="true" weight="0.32962137" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32850778" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.32850778" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3293371" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3293371" />
-      <window_info anchor="bottom" id="Run" order="11" weight="0.47327393" />
-      <window_info anchor="bottom" id="Debug" order="12" weight="0.4688196" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3293371" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49946696" weight="0.3281075" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4688196" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.3293371" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" visible="true" weight="0.28304905" />
+      <window_info anchor="right" id="Run" order="6" weight="0.2534685" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -800,6 +879,11 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonWorkSpace$EMS.coverage" NAME="EMS练习 Coverage Results" MODIFIED="1554369972398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonWorkSpace$list.coverage" NAME="测试list Coverage Results" MODIFIED="1554366487077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonWorkSpace$.coverage" NAME="测试 Coverage Results" MODIFIED="1554365737047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HelloWorld.py" />
@@ -960,8 +1044,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2019-3-20/练习，唐僧大战白骨精.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
+        <state relative-caret-position="1008">
+          <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-4-4/测试list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-4-4/EMS练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
